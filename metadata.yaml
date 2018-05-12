@@ -1,0 +1,27 @@
+_repo: D.-E.-D.-Europaeuksen-kirjeit--ja-matkakertomuksia_37077
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Europaeus, D. E. D. (David Emanuel Daniel)
+    alias: Europaeus, David Emanuel Daniel
+    birthdate: 1820
+    deathdate: 1884
+    gutenberg_agent_id: '38629'
+    url: http://www.gutenberg.org/2009/agents/38629
+description: ''
+gutenberg_issued: '2011-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37077'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Europaeus, D. E. D. (David Emanuel Daniel), 1820-1884'
+- !lcc 'PH'
+title: D. E. D. Europaeuksen kirjeitä ja matkakertomuksia
+url: http://www.gutenberg.org/ebooks/37077
